@@ -69,20 +69,20 @@ a:hover {
   }
 .bcd-input-box {
     margin-bottom: 20px;
-} 
+}
 .bcd-input-box input {
     width: 70%;
     height: 44px;
     padding: 0 15px;
     border-radius: 4px;
-    border: 1px solid #d2d2d2; 
+    border: 1px solid #d2d2d2;
 }
 .bcd-input-box textarea {
     width: 90%;
     padding: 15px;
     height: 100px;
     border-radius: 4px;
-    border: 1px solid #d2d2d2; 
+    border: 1px solid #d2d2d2;
     margin: 0 auto;
 }
 .bcd-input-box button {
@@ -122,10 +122,13 @@ a:hover {
 }
 .bcd-header-container .bcd-header-logo .bcd-header-img-big {
     margin-top: 12px;
+    margin-bottom: 12px;
+    width: 200px;
 }
 .bcd-header-container .bcd-header-logo .bcd-header-img {
     margin-top: 14px;
-    width: 70%;
+    /*width: 70%;*/
+    width: 50px;
 }
 .bcd-header-container .bcd-header-menu-big {
     height: 80px;
@@ -176,7 +179,7 @@ a:hover {
 }
 .bcd-header-container .bcd-language-box-big .bcd-language-img {
     padding: 14px 0;
-    border: 1px solid #626262; 
+    border: 1px solid #626262;
     margin-right: 12px;
     width: 146px;
     display: inline-block;
@@ -187,7 +190,7 @@ a:hover {
 }
 .bcd-header-container .bcd-language-box-big .bcd-language-img.active {
     padding: 14px 0;
-    border: 1px solid #fff; 
+    border: 1px solid #fff;
     margin-right: 12px;
     width: 146px;
     display: inline-block;
@@ -218,7 +221,7 @@ a:hover {
 }
 .bcd-header-container .bcd-language-box .bcd-language-img {
     padding: 15px;
-    border: 1px solid #626262; 
+    border: 1px solid #626262;
     display: block;
     width: 50%;
     margin: 20px auto 0;
@@ -336,7 +339,7 @@ a:hover {
     text-align: center;
     max-height: 600px;
     padding: 110px 30px 30px;
-} 
+}
 .bcd-screen-box img {
     margin-bottom: 40px;
 }
@@ -347,7 +350,7 @@ a:hover {
 .bcd-screen-box-title {
     margin-bottom: 15px;
     margin-top: 15px;
-    
+
 }
 .bcd-screen-box-hide {
     font-size: 14px;
@@ -459,7 +462,7 @@ a:hover {
 .bcd-road-wrap .bcd-road-wrap-pc .bcd-road-box .bcd-road-line {
     height: 1px;
     width: 100%;
-    border-bottom: 1px dashed #686868; 
+    border-bottom: 1px dashed #686868;
     position: absolute;
     top: 9px;
     right: 0;
@@ -515,11 +518,11 @@ a:hover {
     width: 10px!important;
     height: 10px!important;
     background: url(https://btcdimage.blob.core.windows.net/image/not.png) no-repeat!important;
-    background-size: 10px!important; 
+    background-size: 10px!important;
 }
 .swiper-pagination-bullet-active {
-    background: url(https://btcdimage.blob.core.windows.net/image/completed.png) no-repeat!important;  
-    background-size: 10px!important;   
+    background: url(https://btcdimage.blob.core.windows.net/image/completed.png) no-repeat!important;
+    background-size: 10px!important;
 }
 .bcd-road-wrap .bcd-road-wrap-pc .bcd-road-href {
     text-align: center;
@@ -560,7 +563,7 @@ a:hover {
 }
 /************************************************* faq *********************************************************/
 .bcd-faq-wrap {
-    background: #090708; 
+    background: #090708;
     padding: 26px 0px;
 }
 .bcd-faq-wrap .bcd-faq-title {
@@ -625,14 +628,14 @@ a:hover {
 }
 #myBtn {
     display: none;
-    position: fixed; 
-    bottom: 80px; 
-    right: 30px; 
-    z-index: 99; 
+    position: fixed;
+    bottom: 80px;
+    right: 30px;
+    z-index: 99;
     border: none;
     color: white;
-    cursor: pointer; 
-    padding: 15px; 
+    cursor: pointer;
+    padding: 15px;
     border-radius: 10px;
 }
 
