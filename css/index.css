@@ -262,7 +262,7 @@ a:hover {
 }
 .bcd-banner-pc .banner-text {
     position: absolute;
-    top: 42%;
+    top: 45%;
     left: 50%;
     transform: translate3d(-50%,-43%,0);
 }
