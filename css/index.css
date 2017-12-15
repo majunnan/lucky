@@ -123,7 +123,7 @@ a:hover {
 .bcd-header-container .bcd-header-logo .bcd-header-img-big {
     margin-top: 12px;
     margin-bottom: 12px;
-    width: 200px;
+    width: 300px;
 }
 .bcd-header-container .bcd-header-logo .bcd-header-img {
     margin-top: 14px;
@@ -262,7 +262,7 @@ a:hover {
 }
 .bcd-banner-pc .banner-text {
     position: absolute;
-    top: 43%;
+    top: 42%;
     left: 50%;
     transform: translate3d(-50%,-43%,0);
 }
